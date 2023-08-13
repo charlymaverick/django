@@ -1,0 +1,4 @@
+#creado para el control de versiones
+
+
+ django==4.2.4
